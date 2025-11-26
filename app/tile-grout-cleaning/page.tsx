@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Commercial Tile & Grout Cleaning NJ & NY | Floor Restoration Services",
   description:
     "Professional commercial tile, grout, and floor cleaning in New Jersey and New York. Revitalize your floors with professional scrubbing and deep cleaning services. We remove embedded dirt and grime from tile and grout, restoring the fresh look of your lobbies and restrooms",
-  keywords: "tile cleaning NJ NY, grout cleaning, floor cleaning, VCT stripping New Jersey New York",
+  keywords: "tile cleaning NJ NY, grout cleaning, floor cleaning, stripping New Jersey New York",
 }
 
 export default function TileGroutCleaningPage() {
@@ -72,9 +72,9 @@ export default function TileGroutCleaningPage() {
                   </div>
 
                   <div className="service-card">
-                    <h4 className="text-xl font-bold mb-3">VCT Stripping & Waxing</h4>
+                    <h4 className="text-xl font-bold mb-3">Floor Scrubbing & Maintenance Body</h4>
                     <p className="text-gray-600">
-                      Remove old wax buildup and apply fresh coats for a brilliant, protective shine.
+                      We use professional floor machines to deep clean high-traffic areas, removing scuffs, grease, and embedded soil that daily mopping leaves behind.
                     </p>
                   </div>
                 </div>
@@ -186,14 +186,6 @@ export default function TileGroutCleaningPage() {
                     <p>
                       Not when done correctly! We use pH-neutral cleaners and appropriate pressure settings for each
                       stone type. Acidic cleaners and high pressure can damage marble and limestone—we never use them.
-                    </p>
-                  </div>
-
-                  <div className="faq-item">
-                    <span className="faq-question">Q: How long does VCT stripping and waxing take?</span>
-                    <p>
-                      Typically 6-8 hours for a 5,000 sq ft area, including drying time. We work after hours to avoid
-                      disrupting your operations.
                     </p>
                   </div>
 
