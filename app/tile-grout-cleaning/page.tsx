@@ -9,7 +9,11 @@ export const metadata: Metadata = {
   title: "Commercial Tile & Grout Cleaning NJ & NY | Floor Restoration Services",
   description:
     "Professional commercial tile, grout, and floor cleaning in New Jersey and New York. Revitalize your floors with professional scrubbing and deep cleaning services. We remove embedded dirt and grime from tile and grout, restoring the fresh look of your lobbies and restrooms",
+<<<<<<< HEAD
   keywords: "tile cleaning NJ NY, grout cleaning, floor cleaning, New Jersey New York",
+=======
+  keywords: "tile cleaning NJ NY, grout cleaning, floor cleaning, stripping New Jersey New York",
+>>>>>>> 508b3bc4d8ff156e3d3336ff2e92d83882da0cde
 }
 
 export default function TileGroutCleaningPage() {
