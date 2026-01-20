@@ -40,9 +40,6 @@ export function SiteHeader() {
             </Link>
 
             <nav className="hidden md:flex items-center gap-8">
-              <Link href="/" className="font-semibold text-gray-700 hover:text-[#008B8B] transition-colors">
-                Services
-              </Link>
               <a
                 href="tel:+19732042310"
                 className="font-semibold text-[#008B8B] hover:text-[#20B2AA] transition-colors flex items-center gap-2"
